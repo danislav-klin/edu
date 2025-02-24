@@ -25,3 +25,5 @@ class Test
     }
 
 }
+echo "This is class";
+echo "Hello World";
